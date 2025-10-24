@@ -161,18 +161,18 @@ async function getPost(id: string): Promise<Post | null> {
 
 
 export async function generateStaticParams() {
-  const postsDir = require('path').join(process.cwd(), 'posts');
-  const fs = require('fs');
-  
-  const existingPosts = [];
-  // Check for existing post files to avoid errors during build
-  for (let i = 1; i <= 10; i++) {
-    const filePath = require('path').join(postsDir, `page_${i}.md`);
-    if (fs.existsSync(filePath)) {
-      existingPosts.push({ id: i.toString() });
-    }
-  }
-  return existingPosts;
+  // Based on the actual available posts
+  return [
+    { id: '1' },
+    { id: '2' },
+    { id: '3' },
+    { id: '4' },
+    { id: '5' },
+    { id: '6' },
+    { id: '7' },
+    { id: '8' },
+    { id: '9' },
+  ];
 }
 
 export async function generateMetadata({ 
