@@ -24,6 +24,8 @@ jobs:
 
     - name: Build
       run: npm run build
+      env:
+        NODE_OPTIONS: "--max-old-space-size=4096" # Allocate 4GB of memory
 
     - name: Prepare for GitHub Pages
       run: |
