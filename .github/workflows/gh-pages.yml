@@ -25,16 +25,13 @@ jobs:
       - name: Install dependencies
         run: npm ci --legacy-peer-deps
 
-      - name: Build and Export Next.js
-        run: |
-          npm run build
-          npx next export
+      - name: Build (Next.js 15 auto export)
+        run: npm run build
         env:
           NODE_OPTIONS: "--max-old-space-size=4096"
 
-      - name: Add CNAME (optional)
-        run: |
-          echo "theordinaryplayer.github.io" > out/CNAME
+      - name: Add CNAME
+        run: echo "theordinaryplayer.github.io" > out/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
