@@ -13,6 +13,7 @@ import rehypeHighlight from 'rehype-highlight';
 import DOMPurify from 'isomorphic-dompurify';
 // Import HAST types for the tree transformation
 import { Element } from 'hast';
+import { cache } from 'react';
 
 interface Post {
   id: string;
@@ -22,7 +23,7 @@ interface Post {
   date: string;
 }
 
-async function getPost(id: string): Promise<Post | null> {
+const getPost = cache(async (id: string): Promise<Post | null> => {
   try {
     const filePath = join(process.cwd(), 'posts', `page_${id}.md`);
     const content = await fs.readFile(filePath, 'utf8');
@@ -156,7 +157,7 @@ async function getPost(id: string): Promise<Post | null> {
     console.error(`Error reading post ${id}:`, error);
     return null;
   }
-}
+});
 
 
 
@@ -180,16 +181,27 @@ export async function generateMetadata({
 }: { 
   params: { id: string } 
 }): Promise<Metadata> {
-  const post = await getPost(params.id);
-  
-  if (!post) {
-    return {};
-  }
+  try {
+    const post = await getPost(params.id);
+    
+    if (!post) {
+      return {
+        title: 'Post Not Found',
+        description: 'The requested post could not be found',
+      };
+    }
 
-  return {
-    title: post.title,
-    description: `A blog post by ${post.author} about cybersecurity`,
-  };
+    return {
+      title: post.title,
+      description: `A blog post by ${post.author} about cybersecurity`,
+    };
+  } catch (error) {
+    console.error(`Error generating metadata for post ${params.id}:`, error);
+    return {
+      title: 'Error Loading Post',
+      description: 'There was an error loading this post',
+    };
+  }
 }
 
 export default async function PostPage({ 
@@ -197,46 +209,51 @@ export default async function PostPage({
 }: { 
   params: { id: string } 
 }) {
-  const post = await getPost(params.id);
+  try {
+    const post = await getPost(params.id);
 
-  if (!post) {
+    if (!post) {
+      notFound();
+    }
+
+    return (
+      <div className="pt-12">
+        <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <header className="mb-12 border-b pb-8">
+            <div className="mb-10">
+            </div>
+            <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
+              {post.title}
+            </h1>
+            <div className="flex items-center gap-6 text-sm text-muted-foreground">
+              <div className="flex items-center gap-2">
+                <span>By {post.author}</span>
+              </div>
+              <div>
+                <span>{new Date(post.date).toLocaleDateString()}</span>
+              </div>
+            </div>
+          </header>
+          
+          <div 
+            className="prose prose-lg max-w-none"
+            dangerouslySetInnerHTML={{ __html: post.content }} 
+          />
+          
+          <div className="mt-12 pt-8 border-t">
+            <Link 
+              href="/posts" 
+              className="text-primary hover:text-primary/80 transition-colors font-semibold inline-flex items-center gap-2"
+            >
+              <ArrowRight className="rotate-180" size={18} />
+              Back to Posts
+            </Link>
+          </div>
+        </article>
+      </div>
+    );
+  } catch (error) {
+    console.error(`Error rendering post ${params.id}:`, error);
     notFound();
   }
-
-  return (
-    <div className="pt-12">
-      <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <header className="mb-12 border-b pb-8">
-          <div className="mb-10">
-          </div>
-          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            {post.title}
-          </h1>
-          <div className="flex items-center gap-6 text-sm text-muted-foreground">
-            <div className="flex items-center gap-2">
-              <span>By {post.author}</span>
-            </div>
-            <div>
-              <span>{new Date(post.date).toLocaleDateString()}</span>
-            </div>
-          </div>
-        </header>
-        
-        <div 
-          className="prose prose-lg max-w-none"
-          dangerouslySetInnerHTML={{ __html: post.content }} 
-        />
-        
-        <div className="mt-12 pt-8 border-t">
-          <Link 
-            href="/posts" 
-            className="text-primary hover:text-primary/80 transition-colors font-semibold inline-flex items-center gap-2"
-          >
-            <ArrowRight className="rotate-180" size={18} />
-            Back to Posts
-          </Link>
-        </div>
-      </article>
-    </div>
-  );
 }
