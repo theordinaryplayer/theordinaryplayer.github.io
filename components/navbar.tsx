@@ -20,8 +20,8 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center gap-2">
             <img
-              src="https://e.top4top.io/p_35829ski31.png"
-              alt="TOP"
+              src="https://k.top4top.io/p_3585nrb3e0.png"
+              alt="TRICK OR TREAT"
               width="80"
             />
           </Link>
