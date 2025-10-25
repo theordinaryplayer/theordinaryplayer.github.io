@@ -140,7 +140,6 @@ const getPost = cache(async (id: string): Promise<Post | null> => {
       date: new Date().toISOString().split('T')[0],
     };
   } catch (error) {
-    console.error(`Error reading post ${id}:`, error);
     return null;
   }
 });
@@ -164,8 +163,8 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({
   params
-}: { 
-  params: { id: string } 
+}: {
+  params: { id: string }
 }): Promise<Metadata> {
   const post = await getPost(params.id);
   
@@ -184,8 +183,8 @@ export async function generateMetadata({
 
 export default async function PostPage({
   params
-}: { 
-  params: { id: string } 
+}: {
+  params: { id: string }
 }) {
   const post = await getPost(params.id);
 
