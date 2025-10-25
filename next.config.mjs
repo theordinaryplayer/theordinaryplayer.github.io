@@ -10,6 +10,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/your-repo-name', // TODO: Replace with your GitHub repository name
+  trailingSlash: true,
 }
 
 export default nextConfig
