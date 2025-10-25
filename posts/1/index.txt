@@ -1,0 +1,134 @@
+1:"$Sreact.fragment"
+2:I[1917,["874","static/chunks/874-0715c6660f33056f.js","177","static/chunks/app/layout-6821989e314e6304.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[6874,["874","static/chunks/874-0715c6660f33056f.js","880","static/chunks/app/posts/%5Bid%5D/page-ba617bb0ce8d0e66.js"],""]
+6:I[9742,["874","static/chunks/874-0715c6660f33056f.js","177","static/chunks/app/layout-6821989e314e6304.js"],"Analytics"]
+8:I[9665,[],"OutletBoundary"]
+b:I[9665,[],"ViewportBoundary"]
+d:I[9665,[],"MetadataBoundary"]
+f:I[6614,[],""]
+:HL["/_next/static/css/57ead594feaf2ad3.css","style"]
+0:{"P":null,"b":"S_xh7GWUEdW5zAh9PZyMt","p":"","c":["","posts","1",""],"i":false,"f":[[["",{"children":["posts",{"children":[["id","1","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/57ead594feaf2ad3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased bg-background text-foreground font-sans","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[80vh] px-4 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold mb-4 gradient-text","children":"404"}],["$","p",null,{"className":"text-xl text-muted-foreground mb-8","children":"Page not found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."}],["$","$L5",null,{"href":"/","className":"px-6 py-3 bg-primary text-black rounded-full hover:bg-primary/90 transition-colors font-semibold","children":"Go back home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-black border-t border-primary/20 mt-20","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-xl font-bold gradient-text mb-4","children":"The Ordinary Player"}],["$","p",null,{"className":"text-muted-foreground","children":"Rookie hackers on a mission to learn, fail, and hack smarter."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/members","className":"text-muted-foreground hover:text-primary transition-colors","children":"Members"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Resources"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/posts","className":"text-muted-foreground hover:text-primary transition-colors","children":"Posts"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/writeups","className":"text-muted-foreground hover:text-primary transition-colors","children":"Writeups"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Connect"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"Twitter"}]}],["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"Discord"}]}],["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"GitHub"}]}]]}]]}]]}],["$","div",null,{"className":"border-t border-primary/20 pt-8 text-center text-muted-foreground","children":["$","p",null,{"children":"© 2025 The Ordinary Player CTF Team. All rights reserved."}]}]]}]}],["$","$L6",null,{}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","1","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7","$undefined",null,["$","$L8",null,{"children":["$L9","$La",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","AukKkyQHfKc-EfYn5mCX1",{"children":[["$","$Lb",null,{"children":"$Lc"}],null]}],["$","$Ld",null,{"children":"$Le"}]]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+10:T33e0,<p class="markdown-p my-4 leading-relaxed">The path from discovering a software flaw to classifying it under CVE and CWE.</p>
+<p class="markdown-p my-4 leading-relaxed"><img src="https://miro.medium.com/1*eh1DwLQFP9OnbSn3L1ffeQ.png" alt="1" class=""></p>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">Introduction</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">Every serious vulnerability starts as a hunch — a strange log entry, an unexpected response, or a small function that behaves oddly.
+But how does that private observation become a <strong class="markdown-strong font-bold">CVE</strong>, something the entire cybersecurity world tracks and patches?</p>
+<p class="markdown-p my-4 leading-relaxed">This post walks through the real-life process of <strong class="markdown-strong font-bold">identifying, classifying, and responsibly disclosing</strong> vulnerabilities — focusing on the bridge between <strong class="markdown-strong font-bold">CWE (the root weakness)</strong> and <strong class="markdown-strong font-bold">CVE (the recorded instance)</strong>.
+It’s the anatomy of a bug’s journey from “weird behavior” to “public vulnerability.”</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">1. The Spark: Recognizing a Weakness</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">Before a CVE exists, there’s a CWE — the <em class="markdown-em italic">type</em> of weakness.
+Think of CWE as the “family tree” of bugs, defining <em class="markdown-em italic">why</em> something is insecure.</p>
+<p class="markdown-p my-4 leading-relaxed">Some examples of classic CWEs:</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE-79:</strong> Cross-Site Scripting (XSS)</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE-89:</strong> SQL Injection</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE-502:</strong> Unsafe Deserialization</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE-787:</strong> Out-of-Bounds Write</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE-269:</strong> Improper Privilege Management</li>
+</ul>
+<p class="markdown-p my-4 leading-relaxed">Recognizing which CWE you’re dealing with helps define how severe the issue is, how it might be exploited, and who needs to fix it.</p>
+<p class="markdown-p my-4 leading-relaxed"><strong class="markdown-strong font-bold">Example scenario (safe illustration):</strong>
+A web API allows file uploads without proper filename sanitization. When analyzing, you notice user-controlled filenames get concatenated directly into a file path.
+That’s <strong class="markdown-strong font-bold">CWE-22 (Path Traversal)</strong> — a well-known weakness pattern.</p>
+<p class="markdown-p my-4 leading-relaxed">No need to exploit — identifying the pattern already gives you a CWE match.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">2. Reproducibility and Evidence Gathering</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">To progress from CWE to CVE, you need <strong class="markdown-strong font-bold">clear, reproducible evidence</strong> that:</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">The vulnerability exists in a <em class="markdown-em italic">specific software version</em>.</li>
+<li class="markdown-li my-2">The behavior can be triggered by an attacker (even conceptually).</li>
+<li class="markdown-li my-2">The issue has security impact (confidentiality, integrity, or availability).</li>
+</ul>
+<p class="markdown-p my-4 leading-relaxed">Evidence may include:</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Logs or debug outputs showing unintended behavior.</li>
+<li class="markdown-li my-2">Version numbers and affected configurations.</li>
+<li class="markdown-li my-2">Vendor documentation that contradicts actual behavior.</li>
+</ul>
+<p class="markdown-p my-4 leading-relaxed"><strong class="markdown-strong font-bold">Tip:</strong> Always record environment details: OS, app version, patch level, and configuration files.
+A proper CVE submission demands exact reproducibility.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">3. Classification: CWE → CVSS → CVE</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">Once you confirm the weakness, classify it systematically:</p>
+<p class="markdown-p my-4 leading-relaxed"><strong class="markdown-strong font-bold">a. CWE (Root Cause):</strong>
+Define <em class="markdown-em italic">what kind</em> of bug it is — e.g., CWE-79 for an unsanitized parameter.</p>
+<p class="markdown-p my-4 leading-relaxed"><strong class="markdown-strong font-bold">b. CVSS (Severity Scoring):</strong>
+Use the CVSS v3.1 base metrics to estimate severity:</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Attack Vector (AV)</li>
+<li class="markdown-li my-2">Attack Complexity (AC)</li>
+<li class="markdown-li my-2">Privileges Required (PR)</li>
+<li class="markdown-li my-2">Impact (CIA: Confidentiality, Integrity, Availability)</li>
+</ul>
+<p class="markdown-p my-4 leading-relaxed">Example:
+If an attacker can perform a reflected XSS without authentication —
+<code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">AV:N / AC:L / PR:N / UI:R / S:C / C:L / I:L / A:N</code> → <em class="markdown-em italic">CVSS 6.1 (Medium)</em></p>
+<p class="markdown-p my-4 leading-relaxed"><strong class="markdown-strong font-bold">c. CVE (Documented Instance):</strong>
+A CVE is assigned once a vendor or CNA (CVE Numbering Authority) verifies and records your report.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">4. The CVE Submission Path</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">To get a CVE, you don’t submit directly to MITRE (usually).
+You report it to the <strong class="markdown-strong font-bold">vendor</strong> or a <strong class="markdown-strong font-bold">CNA</strong> responsible for that software.</p>
+<p class="markdown-p my-4 leading-relaxed"><strong class="markdown-strong font-bold">The process typically looks like this:</strong></p>
+<ol class="markdown-ol my-4 ml-6 list-decimal">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Identify vendor or maintainer contact.</strong>
+Usually <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">security@vendor.com</code> or a bug bounty platform.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Submit a responsible disclosure report.</strong>
+Include proof, CWE classification, and severity estimate.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Vendor confirms and requests a CVE ID.</strong></li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CNA or MITRE assigns a CVE number.</strong></li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Public disclosure</strong> once the patch is available.</li>
+</ol>
+<p class="markdown-p my-4 leading-relaxed">If the vendor lacks a CNA, you can request assignment via MITRE’s official CVE request form — but only after coordination and confirmation.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">5. Real Case Study (Conceptual Example)</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">Let’s simulate a <strong class="markdown-strong font-bold">safe, real-world-style</strong> example:</p>
+<p class="markdown-p my-4 leading-relaxed">A researcher notices a web server plugin (say, a file-sharing plugin for a CMS) doesn’t properly restrict path traversal.
+The researcher verifies that <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">../../</code> sequences are not sanitized, allowing unintended directory reads.
+No exploitation, just a conceptual verification of behavior.</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE:</strong> CWE-22 (Improper Limitation of a Pathname to a Restricted Directory)</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CVSS:</strong> 7.5 (High)</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Impact:</strong> Confidentiality breach (reading arbitrary files)</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CVE outcome:</strong> Once confirmed by the vendor, the bug becomes something like <strong class="markdown-strong font-bold">CVE-2025-XXXX</strong>.</li>
+</ul>
+<p class="markdown-p my-4 leading-relaxed">After the fix, a vendor advisory is published, linking to the CWE root cause and the CVE record.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">6. Why CWE Mapping Matters for Every Researcher</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">Mapping to CWE improves more than just documentation — it teaches you <em class="markdown-em italic">how to think</em> about vulnerabilities abstractly.
+When you understand CWE patterns, you start seeing <strong class="markdown-strong font-bold">bug classes</strong>, not just isolated issues.</p>
+<p class="markdown-p my-4 leading-relaxed">For example:</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE-79</strong> and <strong class="markdown-strong font-bold">CWE-80</strong> both deal with XSS, but differ in reflection context.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE-269</strong> and <strong class="markdown-strong font-bold">CWE-266</strong> both handle privilege issues, but differ in enforcement layers.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">CWE-502</strong> (Deserialization) often pairs with <strong class="markdown-strong font-bold">CWE-94</strong> (Code Injection) in real cases.</li>
+</ul>
+<p class="markdown-p my-4 leading-relaxed">This abstraction makes your reports more professional and speeds up vendor triage.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">7. Publishing and Ethics</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">Once the issue is verified and patched, researchers often publish:</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">A <strong class="markdown-strong font-bold">technical advisory</strong> explaining the vulnerability class (CWE).</li>
+<li class="markdown-li my-2">A <strong class="markdown-strong font-bold">timeline</strong> showing discovery, vendor acknowledgment, patch release.</li>
+<li class="markdown-li my-2">A <strong class="markdown-strong font-bold">mitigation section</strong> describing safe configuration or patching methods.</li>
+</ul>
+<p class="markdown-p my-4 leading-relaxed">Ethically, this ensures transparency while keeping exploitation details minimal — focusing on <em class="markdown-em italic">learning and prevention</em>.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">8. The Ecosystem View</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">Each CVE isn’t just a bug; it’s a node in a global web of knowledge.
+Security scanners, SIEM systems, and patch managers all rely on the CVE database.
+Meanwhile, CWEs form the taxonomic structure that helps researchers and developers understand <em class="markdown-em italic">why</em> vulnerabilities happen in the first place.</p>
+<p class="markdown-p my-4 leading-relaxed">Together, they’re a shared language between hackers, defenders, and vendors — the DNA of modern vulnerability management.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4"><strong class="markdown-strong font-bold">Conclusion</strong></h3>
+<p class="markdown-p my-4 leading-relaxed">Understanding CVE and CWE transforms you from a bug finder into a <strong class="markdown-strong font-bold">vulnerability analyst</strong> — someone who not only spots flaws but understands their origin, classification, and lifecycle.</p>
+<p class="markdown-p my-4 leading-relaxed">Next time you stumble across a weird behavior in software, pause before trying to exploit it.
+Classify it, document it, and trace it to a CWE.
+That’s how professional researchers turn isolated bugs into lasting security improvements.</p>7:["$","div",null,{"className":"pt-12","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-12 border-b pb-8","children":[["$","div",null,{"className":"mb-10"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold text-foreground mb-6","children":"From Weakness to CVE: Understanding How Bugs Become Global Vulnerabilities"}],["$","div",null,{"className":"flex items-center gap-6 text-sm text-muted-foreground","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"children":["By ","Rosemary"]}]}],["$","div",null,{"children":["$","span",null,{"children":"10/25/2025"}]}]]}]]}],["$","div",null,{"className":"prose prose-lg max-w-none","dangerouslySetInnerHTML":{"__html":"$10"}}],["$","div",null,{"className":"mt-12 pt-8 border-t","children":["$","$L5",null,{"href":"/posts","className":"text-primary hover:text-primary/80 transition-colors font-semibold inline-flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right rotate-180","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}],"Back to Posts"]}]}]]}]}]
+a:null
+e:[["$","title","0",{"children":"From Weakness to CVE: Understanding How Bugs Become Global Vulnerabilities"}],["$","meta","1",{"name":"description","content":"A blog post by Rosemary about cybersecurity"}],["$","link","2",{"rel":"icon","href":"/favicon.ico"}]]

@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:I[1917,["874","static/chunks/874-0715c6660f33056f.js","177","static/chunks/app/layout-6821989e314e6304.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[6874,["874","static/chunks/874-0715c6660f33056f.js","880","static/chunks/app/posts/%5Bid%5D/page-ba617bb0ce8d0e66.js"],""]
+6:I[9742,["874","static/chunks/874-0715c6660f33056f.js","177","static/chunks/app/layout-6821989e314e6304.js"],"Analytics"]
+8:I[9665,[],"OutletBoundary"]
+b:I[9665,[],"ViewportBoundary"]
+d:I[9665,[],"MetadataBoundary"]
+f:I[6614,[],""]
+:HL["/_next/static/css/57ead594feaf2ad3.css","style"]
+0:{"P":null,"b":"S_xh7GWUEdW5zAh9PZyMt","p":"","c":["","posts","6",""],"i":false,"f":[[["",{"children":["posts",{"children":[["id","6","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/57ead594feaf2ad3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased bg-background text-foreground font-sans","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[80vh] px-4 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold mb-4 gradient-text","children":"404"}],["$","p",null,{"className":"text-xl text-muted-foreground mb-8","children":"Page not found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."}],["$","$L5",null,{"href":"/","className":"px-6 py-3 bg-primary text-black rounded-full hover:bg-primary/90 transition-colors font-semibold","children":"Go back home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-black border-t border-primary/20 mt-20","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-xl font-bold gradient-text mb-4","children":"The Ordinary Player"}],["$","p",null,{"className":"text-muted-foreground","children":"Rookie hackers on a mission to learn, fail, and hack smarter."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/members","className":"text-muted-foreground hover:text-primary transition-colors","children":"Members"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Resources"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/posts","className":"text-muted-foreground hover:text-primary transition-colors","children":"Posts"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/writeups","className":"text-muted-foreground hover:text-primary transition-colors","children":"Writeups"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Connect"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"Twitter"}]}],["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"Discord"}]}],["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"GitHub"}]}]]}]]}]]}],["$","div",null,{"className":"border-t border-primary/20 pt-8 text-center text-muted-foreground","children":["$","p",null,{"children":"© 2025 The Ordinary Player CTF Team. All rights reserved."}]}]]}]}],["$","$L6",null,{}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","6","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7","$undefined",null,["$","$L8",null,{"children":["$L9","$La",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","QoO6aM87oxrvnyTC349SH",{"children":[["$","$Lb",null,{"children":"$Lc"}],null]}],["$","$Ld",null,{"children":"$Le"}]]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+10:T1f4d,<p class="markdown-p my-4 leading-relaxed">Cross-Site Scripting (XSS) is a client-side code injection vulnerability that allows attackers to run JavaScript in victims’ browsers. Impact ranges from UI redress / defacement and session theft to more advanced flows like token theft or performing actions on behalf of the user. XSS remains one of the most common web vulnerabilities and appears in many OWASP Top 10 discussions.</p>
+<p class="markdown-p my-4 leading-relaxed"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190516152959/Cross-Site-ScriptingXSS.png" alt="1" class=""></p>
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Types of XSS (short)</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Reflected XSS:</strong> Payload is part of a request (e.g., URL) and reflected in the immediate response. Common in search, error messages, or query parameters.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Stored (Persistent) XSS:</strong> Payload is stored by the application (e.g., comment, profile) and served to multiple users — higher impact because every visitor can be affected.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">DOM-based XSS:</strong> Injection happens in client-side code (JS modifies DOM from untrusted sources). Detection requires inspecting front-end code and dynamic DOM flows.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Quick, safe checks (authorized testing only)</h2>
+<p class="markdown-p my-4 leading-relaxed">Always test only targets you own or have explicit permission to test. Use non-destructive probes first to confirm reflection or storage behavior.</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Inspect reflection (basic):</strong></li>
+</ul>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-bash markdown-code font-mono text-sm"><span class="hljs-comment"># baseline</span>
+curl -s <span class="hljs-string">'https://example.com/search?q=test'</span> -o base.html
+
+<span class="hljs-comment"># inject a harmless script tag and compare</span>
+curl -s <span class="hljs-string">'https://example.com/search?q=&lt;script&gt;alert(1)&lt;/script&gt;'</span> -o test.html
+diff -u base.html test.html | <span class="hljs-built_in">head</span>
+</code></pre>
+<p class="markdown-p my-4 leading-relaxed">If the injected string appears unescaped in <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">test.html</code>, it indicates a reflection point. (Do not run <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">alert()</code> payloads on real users — use clearly benign strings like <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">XSS_TEST_123</code> to avoid nuisance.)</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">
+<p class="markdown-p my-4 leading-relaxed"><strong class="markdown-strong font-bold">Check stored injection points</strong> (authorized):</p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Submit a simple marker to a comment or profile field, then view the page as another user to see if the marker renders unescaped. Document screenshots/diffs rather than extracting data.</li>
+</ul>
+</li>
+<li class="markdown-li my-2">
+<p class="markdown-p my-4 leading-relaxed"><strong class="markdown-strong font-bold">DOM XSS reconnaissance:</strong></p>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Inspect client JS (browser devtools) for uses of <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">innerHTML</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">document.write</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">eval</code>, or unsafe <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">location.hash</code> usage. These indicate potential DOM injection sinks.</li>
+</ul>
+</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Minimal safe payloads for evidence (lab / in-scope only)</h2>
+<p class="markdown-p my-4 leading-relaxed">Use non-malicious markers that are easy to search for:</p>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-php-template markdown-code font-mono text-sm"><span class="xml"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="javascript"><span class="hljs-comment">/*XSS_PROOF_2025*/</span></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">x</span> <span class="hljs-attr">onerror</span>=<span class="hljs-string">console.log(</span>'<span class="hljs-attr">XSS_PROOF_2025</span>')&gt;</span>
+</span></code></pre>
+<p class="markdown-p my-4 leading-relaxed">Record where the marker appears (response body, DOM, or stored page). Do <strong class="markdown-strong font-bold">not</strong> publish exploit payloads that would enable mass abuse.</p>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Defensive controls (what dev teams must do)</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Contextual output encoding:</strong> Escape output depending on context (HTML body, attribute, JS, URL, CSS). Prefer framework templating that auto-escapes.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Input validation ≠ escaping:</strong> Validate input shape, but rely on output encoding for safety.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Content Security Policy (CSP):</strong> Enforce CSP with <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">script-src</code> and nonces to reduce impact of injected scripts.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">HttpOnly + Secure cookies:</strong> Prevent easy theft of session cookies via JS.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Sanitize rich text carefully:</strong> Use a well-maintained sanitizer library (allowlist approach) for HTML inputs.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Detection &amp; monitoring (defender playbook)</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Log suspicious inputs and monitor for payload markers: <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">(&lt;script|onerror|javascript:)</code> patterns in requests.</li>
+<li class="markdown-li my-2">Use security scanners and manual review for stored content flows (automated scanners find many reflected issues, but stored/DOM often require manual checks).</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Reporting checklist (for responsible disclosure)</h2>
+<ol class="markdown-ol my-4 ml-6 list-decimal">
+<li class="markdown-li my-2">Endpoint(s) and parameter(s) where marker appears.</li>
+<li class="markdown-li my-2">Type (reflected / stored / DOM).</li>
+<li class="markdown-li my-2">Safe reproduction steps using non-destructive markers.</li>
+<li class="markdown-li my-2">Impact assessment (session theft, CSRF escalation, user impersonation, etc.).</li>
+<li class="markdown-li my-2">Remediation recommendations (contextual encoding, CSP, sanitization).</li>
+</ol>7:["$","div",null,{"className":"pt-12","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-12 border-b pb-8","children":[["$","div",null,{"className":"mb-10"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold text-foreground mb-6","children":"Cross-Site Scripting (XSS) — Practical Guide"}],["$","div",null,{"className":"flex items-center gap-6 text-sm text-muted-foreground","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"children":["By ","Rosemary"]}]}],["$","div",null,{"children":["$","span",null,{"children":"10/25/2025"}]}]]}]]}],["$","div",null,{"className":"prose prose-lg max-w-none","dangerouslySetInnerHTML":{"__html":"$10"}}],["$","div",null,{"className":"mt-12 pt-8 border-t","children":["$","$L5",null,{"href":"/posts","className":"text-primary hover:text-primary/80 transition-colors font-semibold inline-flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right rotate-180","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}],"Back to Posts"]}]}]]}]}]
+a:null
+e:[["$","title","0",{"children":"Cross-Site Scripting (XSS) — Practical Guide"}],["$","meta","1",{"name":"description","content":"A blog post by Rosemary about cybersecurity"}],["$","link","2",{"rel":"icon","href":"/favicon.ico"}]]

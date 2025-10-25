@@ -1,0 +1,244 @@
+1:"$Sreact.fragment"
+2:I[1917,["874","static/chunks/874-0715c6660f33056f.js","177","static/chunks/app/layout-6821989e314e6304.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[6874,["874","static/chunks/874-0715c6660f33056f.js","880","static/chunks/app/posts/%5Bid%5D/page-ba617bb0ce8d0e66.js"],""]
+6:I[9742,["874","static/chunks/874-0715c6660f33056f.js","177","static/chunks/app/layout-6821989e314e6304.js"],"Analytics"]
+8:I[9665,[],"OutletBoundary"]
+b:I[9665,[],"ViewportBoundary"]
+d:I[9665,[],"MetadataBoundary"]
+f:I[6614,[],""]
+:HL["/_next/static/css/57ead594feaf2ad3.css","style"]
+0:{"P":null,"b":"S_xh7GWUEdW5zAh9PZyMt","p":"","c":["","posts","7",""],"i":false,"f":[[["",{"children":["posts",{"children":[["id","7","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/57ead594feaf2ad3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased bg-background text-foreground font-sans","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[80vh] px-4 text-center","children":[["$","h1",null,{"className":"text-6xl font-bold mb-4 gradient-text","children":"404"}],["$","p",null,{"className":"text-xl text-muted-foreground mb-8","children":"Page not found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."}],["$","$L5",null,{"href":"/","className":"px-6 py-3 bg-primary text-black rounded-full hover:bg-primary/90 transition-colors font-semibold","children":"Go back home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-black border-t border-primary/20 mt-20","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-8 mb-8","children":[["$","div",null,{"children":[["$","h3",null,{"className":"text-xl font-bold gradient-text mb-4","children":"The Ordinary Player"}],["$","p",null,{"className":"text-muted-foreground","children":"Rookie hackers on a mission to learn, fail, and hack smarter."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/","className":"text-muted-foreground hover:text-primary transition-colors","children":"Home"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/members","className":"text-muted-foreground hover:text-primary transition-colors","children":"Members"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Resources"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/posts","className":"text-muted-foreground hover:text-primary transition-colors","children":"Posts"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/writeups","className":"text-muted-foreground hover:text-primary transition-colors","children":"Writeups"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"font-semibold text-foreground mb-4","children":"Connect"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"Twitter"}]}],["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"Discord"}]}],["$","li",null,{"children":["$","a",null,{"href":"#","className":"text-muted-foreground hover:text-primary transition-colors","children":"GitHub"}]}]]}]]}]]}],["$","div",null,{"className":"border-t border-primary/20 pt-8 text-center text-muted-foreground","children":["$","p",null,{"children":"© 2025 The Ordinary Player CTF Team. All rights reserved."}]}]]}]}],["$","$L6",null,{}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","7","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7","$undefined",null,["$","$L8",null,{"children":["$L9","$La",null]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","URH-VB5odvcyx9JFloZSD",{"children":[["$","$Lb",null,{"children":"$Lc"}],null]}],["$","$Ld",null,{"children":"$Le"}]]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+10:T6675,<p class="markdown-p my-4 leading-relaxed">Cryptography is the practice of developing and using coded algorithms to protect and obscure transmitted information so that it may only be read by those with the permission and ability to decrypt it. Put differently, cryptography obscures communications so that unauthorized parties are unable to access them.</p>
+<p class="markdown-p my-4 leading-relaxed"><img src="https://ik.imagekit.io/edtechdigit/uscsi/Content/images/articles/a-brief-guide-on-cryptography-technology-for-cybersecurity.jpg" alt="1" class=""></p>
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Quick orientation (what CTF crypto challenges test)</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Recognize primitives (hash, MAC, symmetric, asymmetric).</li>
+<li class="markdown-li my-2">Find incorrect use (nonce reuse, ECB, static IV, unauthenticated encryption).</li>
+<li class="markdown-li my-2">Use tooling &amp; small scripts to recover keys / forge data.</li>
+<li class="markdown-li my-2">Typical patterns: OTP reuse, RSA low-exponent, common modulus, padding oracle, hash length extension, HMAC misuse, PRNG predictability.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Tools you’ll use a lot</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hashcat</code> / <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">john</code> (password/hash cracking)</li>
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">openssl</code> (inspect/convert/generate)</li>
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">python3</code> (+ libraries: <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">pycryptodome</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">cryptography</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">sage</code> when allowed)</li>
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">RsaCtfTool</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">msieve</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">yafu</code> / <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">pari/gp</code> (factorization)</li>
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">netcat</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">curl</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">requests</code> (interact with challenge)</li>
+<li class="markdown-li my-2">Quick helpers: <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">xxd</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">base64</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">jq</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">cut</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">sed</code></li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">Useful general commands (CTF lab)</h2>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-bash markdown-code font-mono text-sm"><span class="hljs-comment"># base64 decode/encode</span>
+<span class="hljs-built_in">echo</span> <span class="hljs-string">'aGVsbG8='</span> | <span class="hljs-built_in">base64</span> -d
+<span class="hljs-built_in">echo</span> -n <span class="hljs-string">'hello'</span> | <span class="hljs-built_in">base64</span>
+
+<span class="hljs-comment"># hex dump / convert</span>
+<span class="hljs-built_in">echo</span> -n <span class="hljs-string">'68656c6c6f'</span> | xxd -r -p
+xxd -p secret.bin
+
+<span class="hljs-comment"># openssl: AES decrypt (example, ECB or CBC)</span>
+openssl enc -aes-128-cbc -d -<span class="hljs-keyword">in</span> cipher.bin -K &lt;keyhex&gt; -iv &lt;ivhex&gt; -nopad
+
+<span class="hljs-comment"># hash identification</span>
+hashid cipher.txt   <span class="hljs-comment"># or use online hash identifiers in CTF labs</span>
+
+<span class="hljs-comment"># hashcat example (sha1)</span>
+hashcat -m 100 -a 0 hash.txt /path/to/wordlist.txt
+
+<span class="hljs-comment"># john example</span>
+john --wordlist=rockyou.txt --format=raw-md5 hash.txt
+</code></pre>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">1) Encoding / classical crypto (easy CTF starters)</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Recognize: base64, hex, ROT13, Caesar, Vigenère, XOR single-byte, XOR repeating key.</li>
+<li class="markdown-li my-2">Tools: <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">cyberchef</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">xorsearch</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">rabin2</code> for binaries.</li>
+<li class="markdown-li my-2">Quick XOR single byte (python):</li>
+</ul>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-python markdown-code font-mono text-sm"><span class="hljs-comment"># find single-byte xor key</span>
+<span class="hljs-keyword">from</span> itertools <span class="hljs-keyword">import</span> cycle
+data = <span class="hljs-built_in">bytes</span>.fromhex(<span class="hljs-built_in">open</span>(<span class="hljs-string">'c.hex'</span>).read().strip())
+<span class="hljs-keyword">for</span> k <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">256</span>):
+    p = <span class="hljs-built_in">bytes</span>([b ^ k <span class="hljs-keyword">for</span> b <span class="hljs-keyword">in</span> data])
+    <span class="hljs-keyword">if</span> <span class="hljs-string">b'CTF'</span> <span class="hljs-keyword">in</span> p <span class="hljs-keyword">or</span> <span class="hljs-built_in">all</span>(<span class="hljs-number">32</span>&lt;=c&lt;<span class="hljs-number">127</span> <span class="hljs-keyword">for</span> c <span class="hljs-keyword">in</span> p[:<span class="hljs-number">20</span>]):
+        <span class="hljs-built_in">print</span>(k, p[:<span class="hljs-number">200</span>])
+</code></pre>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">2) Hashes / cracking</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Identify hash type (hashid). Use <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hashcat</code> with correct <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">-m</code>.</li>
+<li class="markdown-li my-2">Salted vs unsalted: if salted and salt known, craft appropriate input.</li>
+<li class="markdown-li my-2">Rainbow tables not common in modern CTFs — brute force / wordlists + rules typical.</li>
+<li class="markdown-li my-2">Hashcat example:</li>
+</ul>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-bash markdown-code font-mono text-sm">hashcat -m 0 -a 0 hashes.txt /usr/share/wordlists/rockyou.txt
+</code></pre>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">When facing custom hash or multiple rounds, write python to replicate and then brute-force.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">3) HMAC / MAC misuse</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Length-extension attack: applies to <strong class="markdown-strong font-bold">Merkle–Damgård</strong> hashes (MD5, SHA-1, SHA-256) if app uses <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hash(secret || message)</code> to authenticate. If challenge reveals <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hash(secret||msg)</code> and allows you to append data, do length extension.</li>
+<li class="markdown-li my-2">Tools: <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hashpumpy</code> (python).</li>
+</ul>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-bash markdown-code font-mono text-sm"><span class="hljs-comment"># example: use hashpumpy to forge message and new hash</span>
+hashpumpy -s &lt;orig_hash&gt; -d <span class="hljs-string">"&lt;orig_msg&gt;"</span> -a <span class="hljs-string">"&lt;append_data&gt;"</span> -k &lt;key_len&gt;
+</code></pre>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">If HMAC (proper) used, length-extension not possible. Look for <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">md5(secret + msg)</code> vs <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hmac_md5</code>.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">4) Symmetric crypto gotchas (AES)</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">ECB detection</strong>: repeated blocks → identical ciphertext blocks. <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">detect-ecb.py</code> or just <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">xxd</code>.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Nonce/IV reuse</strong>: CTR/GCM reuse catastrophic — recover keystream or plaintext XORs.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Padding oracle</strong>: CBC with padding errors and distinguishable messages → full decryption via padding oracle attack.</li>
+</ul>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">Padding oracle (CTF pattern)</h3>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">If server responds differently for valid vs invalid padding, you can brute-force plaintext block-by-block.</li>
+<li class="markdown-li my-2">Python skeleton (lab only):</li>
+</ul>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-python markdown-code font-mono text-sm"><span class="hljs-comment"># pseudo-code: query oracle until padding valid</span>
+<span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">256</span>):
+    test_block = craft_block(i, known_bytes, ...)
+    resp = requests.get(url_with_cipher(test_block))
+    <span class="hljs-keyword">if</span> resp.status_code == <span class="hljs-number">200</span> <span class="hljs-keyword">or</span> <span class="hljs-string">'padding'</span> <span class="hljs-keyword">not</span> <span class="hljs-keyword">in</span> resp.text:
+        <span class="hljs-comment"># guessed byte</span>
+</code></pre>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Tools: <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">paddingoracle</code> libraries exist; implement per-challenge.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">5) One-Time Pad / stream cipher reuse</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">OTP reuse (same keystream XORed with two plaintexts): <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">c1 ^ c2 = p1 ^ p2</code>. Known-plaintext/ciphertext crib-dragging recovers texts.</li>
+<li class="markdown-li my-2">Use <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">xortool</code> or write crib-drag script.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">6) RSA — the CTF goldmine</h2>
+<p class="markdown-p my-4 leading-relaxed">Common CTF RSA scenarios and quick edicts:</p>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">Recognize from challenge</h3>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Small <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">e</code> (e = 3,5,17) — potential low exponent attack (if m^e &lt; n → cube root).</li>
+<li class="markdown-li my-2">Common modulus <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">n</code> reused across keys with different e — use <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">gcd(n1, n2)</code> to find shared prime.</li>
+<li class="markdown-li my-2">Small prime factors — factor <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">n</code> with <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">yafu</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">msieve</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">factordb</code> (CTF offline).</li>
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">p</code> and <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">q</code> very close — Fermat factorization.</li>
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">d</code> small → Wiener's attack (use <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">RsaCtfTool</code> or <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">wiener</code>).</li>
+<li class="markdown-li my-2">Broadcast attack (same message to multiple recipients with small e).</li>
+<li class="markdown-li my-2">Padding oracle / Bleichenbacher (advanced; rare in CTFs but possible).</li>
+</ul>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">Commands &amp; tools</h3>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-bash markdown-code font-mono text-sm"><span class="hljs-comment"># RsaCtfTool (automates many attacks)</span>
+git <span class="hljs-built_in">clone</span> https://github.com/Ganapati/RsaCtfTool
+python3 RsaCtfTool/RsaCtfTool.py --publickey target.pem --uncipher
+
+<span class="hljs-comment"># msieve / yafu for factoring</span>
+yafu <span class="hljs-string">'factor(&lt;n&gt;)'</span>
+msieve &lt;n&gt;
+
+<span class="hljs-comment"># e=3 small message (use python gmpy2)</span>
+<span class="hljs-comment"># compute integer cube root of ciphertext if m^3 &lt; n</span>
+</code></pre>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">Example: low e (e=3) decrypt if c &lt; n and m^3 &lt; n</h3>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-python markdown-code font-mono text-sm"><span class="hljs-keyword">from</span> gmpy2 <span class="hljs-keyword">import</span> iroot, mpz
+c = mpz(&lt;ciphertext&gt;)
+m, exact = iroot(c, <span class="hljs-number">3</span>)
+<span class="hljs-keyword">if</span> exact:
+    <span class="hljs-built_in">print</span>(<span class="hljs-built_in">bytes</span>.fromhex(<span class="hljs-built_in">hex</span>(<span class="hljs-built_in">int</span>(m))[<span class="hljs-number">2</span>:]))
+</code></pre>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">7) ECC / ECDSA traps in CTFs</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Reused nonce <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">k</code> in ECDSA → recover private key. If two signatures share <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">k</code>, solve linear equations.</li>
+<li class="markdown-li my-2">Weak curve params or small subgroup attacks sometimes appear.</li>
+<li class="markdown-li my-2">Tools: <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">sage</code> or write small scripts using <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">ecdsa</code> library.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">8) PRNG / RNG weaknesses</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">rand()</code> or <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">mt19937</code> predictability is common in CTFs. If key or token generated by predictable RNG, reverse internal state.</li>
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">mt19937</code>: capture 624 outputs, reconstruct state → predict next outputs. <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">pwntools</code> has helpers.</li>
+<li class="markdown-li my-2">Example Python for mt19937 state recovery: use <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">numpy</code>/<code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">random</code> or <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">pymt19937</code> libs.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">9) Signature forgery / length extension / format flaws</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">XML Signature wrapping or naive verification often exploited in advanced CTFs.</li>
+<li class="markdown-li my-2">If signature verification compares strings instead of verifying with key — trivial bypass.</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">10) Practical CTF walk-throughs (mini examples)</h2>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">A. Hash challenge — salted bcrypt</h3>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Given bcrypt hash string <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">$2b$12$...</code>, use <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hashcat -m 3200</code> or <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">john --format=bcrypt</code> with wordlist.</li>
+</ul>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-bash markdown-code font-mono text-sm">hashcat -m 3200 bcrypt_hash.txt rockyou.txt
+</code></pre>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">B. RSA small e = 3, ciphertext c, public n</h3>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Try low-exponent attack:</li>
+</ul>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-python markdown-code font-mono text-sm"><span class="hljs-comment"># python3 snippet (gmpy2 recommended)</span>
+<span class="hljs-keyword">from</span> gmpy2 <span class="hljs-keyword">import</span> iroot, mpz
+c=mpz(<span class="hljs-built_in">int</span>(cipher_hex,<span class="hljs-number">16</span>))
+m, ok = iroot(c,<span class="hljs-number">3</span>)
+<span class="hljs-keyword">if</span> ok: <span class="hljs-built_in">print</span>(<span class="hljs-built_in">bytes</span>.fromhex(<span class="hljs-built_in">hex</span>(<span class="hljs-built_in">int</span>(m))[<span class="hljs-number">2</span>:]))
+</code></pre>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">C. Padding Oracle (CBC) — block-by-block</h3>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Use padding oracle script (many public PoC scripts). Approach: iterate last byte values until server indicates valid padding. Build plaintext.</li>
+</ul>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">D. OTP reuse (two ciphertexts)</h3>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">c1 ^ c2 = p1 ^ p2</code>. Use crib dragging with common words (<code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">"flag"</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">"CTF"</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">"http"</code>).</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">11) Scripts &amp; snippets (CTF staples)</h2>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">Length extension (hashpumpy)</h3>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-bash markdown-code font-mono text-sm">pip install hashpumpy
+<span class="hljs-comment"># Example:</span>
+hashpumpy -s &lt;orig_hash&gt; -d <span class="hljs-string">"&lt;orig_msg&gt;"</span> -a <span class="hljs-string">"&lt;append&gt;"</span> -k &lt;keylen&gt;
+</code></pre>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">RSA common modulus gcd quick test (python)</h3>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-python markdown-code font-mono text-sm"><span class="hljs-keyword">import</span> math
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">gcd</span>(<span class="hljs-params">a,b</span>): <span class="hljs-keyword">return</span> math.gcd(a,b)
+n1 = <span class="hljs-built_in">int</span>(<span class="hljs-built_in">open</span>(<span class="hljs-string">'n1.txt'</span>).read().strip())
+n2 = <span class="hljs-built_in">int</span>(<span class="hljs-built_in">open</span>(<span class="hljs-string">'n2.txt'</span>).read().strip())
+g = gcd(n1,n2)
+<span class="hljs-keyword">if</span> g!=<span class="hljs-number">1</span>: <span class="hljs-built_in">print</span>(<span class="hljs-string">"shared prime:"</span>, g)
+</code></pre>
+<h3 class="markdown-h3 text-xl font-bold mt-6 mb-4">Crib-dragger simple (XOR)</h3>
+<pre class="markdown-pre rounded-md bg-muted p-4 overflow-x-auto"><code class="hljs language-python markdown-code font-mono text-sm">c1 = <span class="hljs-built_in">bytes</span>.fromhex(<span class="hljs-built_in">open</span>(<span class="hljs-string">'c1.hex'</span>).read().strip())
+c2 = <span class="hljs-built_in">bytes</span>.fromhex(<span class="hljs-built_in">open</span>(<span class="hljs-string">'c2.hex'</span>).read().strip())
+x = <span class="hljs-built_in">bytes</span>([a^b <span class="hljs-keyword">for</span> a,b <span class="hljs-keyword">in</span> <span class="hljs-built_in">zip</span>(c1,c2)])
+<span class="hljs-comment"># try cribs</span>
+cribs = [<span class="hljs-string">b'flag'</span>, <span class="hljs-string">b'CTF'</span>, <span class="hljs-string">b'http'</span>]
+<span class="hljs-keyword">for</span> crib <span class="hljs-keyword">in</span> cribs:
+    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-built_in">len</span>(x)-<span class="hljs-built_in">len</span>(crib)):
+        segment = <span class="hljs-built_in">bytes</span>([x[j]^crib[j-i] <span class="hljs-keyword">for</span> j <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(i,i+<span class="hljs-built_in">len</span>(crib))])
+</code></pre>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">12) Strategy &amp; heuristics in CTF crypto</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Recognize patterns fast.</strong> Many challenges reuse the same classes: RSA quirks, padding oracle, length extension, OTP reuse.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Automate trial transforms.</strong> Use CyberChef or scripts to try base64/hex/rot/xor combos quickly.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Use tooling first, then custom script.</strong> <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">RsaCtfTool</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hashcat</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">hashpumpy</code>, <code class="markdown-code font-mono text-sm bg-muted px-1.5 py-0.5 rounded">xortool</code> save huge time.</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Check challenge metadata.</strong> CTF description often hints (e.g., “legacy” → likely MD5/SHA1; “embedded” → maybe LFSR/PRNG).</li>
+<li class="markdown-li my-2"><strong class="markdown-strong font-bold">Read outputs carefully.</strong> Error messages, whitespace, line endings often leak useful info (nonce lengths, byte-order).</li>
+</ul>
+<hr class="markdown-hr my-6 h-px border-0 bg-border">
+<h2 class="markdown-h2 text-2xl font-bold mt-6 mb-4">13) Resources to practice</h2>
+<ul class="markdown-ul my-4 ml-6 list-disc">
+<li class="markdown-li my-2">Crypto CTF rooms on <strong class="markdown-strong font-bold">HackTheBox / TryHackMe</strong></li>
+<li class="markdown-li my-2">Crypto challenges on <strong class="markdown-strong font-bold">cryptohack.org</strong> and old CTF writeups (study patterns)</li>
+<li class="markdown-li my-2">Implement small exercises locally: RSA toy keys, MT19937 state recoveries, padding oracle labs.</li>
+</ul>7:["$","div",null,{"className":"pt-12","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-12 border-b pb-8","children":[["$","div",null,{"className":"mb-10"}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold text-foreground mb-6","children":"Cryptography in Capture The Flag (CTF)"}],["$","div",null,{"className":"flex items-center gap-6 text-sm text-muted-foreground","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"children":["By ","Frigg"]}]}],["$","div",null,{"children":["$","span",null,{"children":"10/25/2025"}]}]]}]]}],["$","div",null,{"className":"prose prose-lg max-w-none","dangerouslySetInnerHTML":{"__html":"$10"}}],["$","div",null,{"className":"mt-12 pt-8 border-t","children":["$","$L5",null,{"href":"/posts","className":"text-primary hover:text-primary/80 transition-colors font-semibold inline-flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":18,"height":18,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right rotate-180","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}],"Back to Posts"]}]}]]}]}]
+a:null
+e:[["$","title","0",{"children":"Cryptography in Capture The Flag (CTF)"}],["$","meta","1",{"name":"description","content":"A blog post by Frigg about cybersecurity"}],["$","link","2",{"rel":"icon","href":"/favicon.ico"}]]
