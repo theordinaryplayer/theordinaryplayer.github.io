@@ -7,10 +7,10 @@ const allPosts = [
     id: 1,
     title: "JCC 2025",
     excerpt:
-      "Deep dive into advanced SQL injection methods and how to exploit them in CTF challenges.",
+      "Jatim Cybersecurity Competition 2025 Writeup by Team 3xplo1t3r",
     content:
-      "SQL injection remains one of the most critical vulnerabilities in web applications. In this comprehensive guide, we explore advanced techniques used in modern CTF competitions...",
-    date: "2025-01-15",
+      "Writeup",
+    date: "2025-09-25",
     author: "3xplo1t3r // TOP",
     category: "CTF Event",
     readTime: 8,
@@ -19,10 +19,10 @@ const allPosts = [
     id: 2,
     title: "WRECK-IT 6.0",
     excerpt:
-      "A comprehensive guide to analyzing and reverse engineering ARM architecture binaries.",
+      "WRECK-IT 6.0 Writeup by Team 3xplo1t3r",
     content:
-      "ARM architecture is increasingly common in embedded systems and IoT devices. This guide covers the fundamentals of ARM assembly and advanced reverse engineering techniques...",
-    date: "2025-01-12",
+      "Writeup",
+    date: "2025-10-04",
     author: "3xplo1t3r // TOP",
     category: "CTF Event",
     readTime: 12,
@@ -31,10 +31,10 @@ const allPosts = [
     id: 3,
     title: "QnQSec CTF 2025",
     excerpt:
-      "Exploring common RSA vulnerabilities and exploitation techniques used in CTF competitions.",
+      "QnQSec CTF 2025 Writeup by Team 3xplo1t3r",
     content:
-      "RSA cryptography is fundamental to modern security, but implementation flaws can lead to critical vulnerabilities. We explore common attack vectors and exploitation methods...",
-    date: "2025-01-10",
+      "Writeup",
+    date: "2025-10-16 - 2025-10-19",
     author: "3xplo1t3r // TOP",
     category: "CTF Event",
     readTime: 10,
