@@ -4,6 +4,7 @@ import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 import Navbar from "@/components/navbar"
 import Footer from "@/components/footer"
+import SnowfallWrapper from "@/components/snowfall-wrapper"
 
 export const metadata: Metadata = {
   title: "TOP - The Ordinary Player",
@@ -26,10 +27,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="antialiased bg-background text-foreground font-sans">
-        <Navbar />
-        <main className="min-h-screen">{children}</main>
-        <Footer />
-        <Analytics />
+        <SnowfallWrapper>
+          <Navbar />
+          <main className="min-h-screen">{children}</main>
+          <Footer />
+          <Analytics />
+        </SnowfallWrapper>
       </body>
     </html>
   )

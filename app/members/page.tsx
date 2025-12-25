@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { ArrowRight, Github, Instagram } from "lucide-react"
+import { ArrowRight, Github, Instagram, Globe, Linkedin } from "lucide-react"
 
 // Mock data for team members
 const members = [
@@ -7,13 +7,15 @@ const members = [
     id: 1,
     name: "Rosemary",
     role: "Team Lead",
-    specialty: "none",
-    bio: "Ap%U!+EMI2Bk;C3/0JPI@r!3'Dg#[",
+    specialty: "Newbie",
+    bio: "forced to solve sanity check in every ctf...",
     image: "https://media.tenor.com/_6oZOOOWKdwAAAAM/discord-pfp.gif",
     social: {
       github: "https://github.com/Rosemary1337",
-      instagram: "https://instagram.com/ryhnmhrdkaa"
-    }
+      instagram: "https://instagram.com/ryhnmhrdkaa",
+      website: "https://ros3mary.my.id",
+      linkedin: "https://linkedin.com/in/rayhan-mahardika",
+    },
   },
   {
     id: 2,
@@ -25,8 +27,9 @@ const members = [
       "https://i.pinimg.com/originals/7f/6d/40/7f6d40a71587e5a14a829c36d608dd20.gif",
     social: {
       github: "https://github.com/Rafaa-kn",
-      instagram: "https://instagram.com/rafaakn_"
-    }
+      instagram: "https://instagram.com/rafaakn_",
+      linkedin: "https://www.linkedin.com/in/rado-faristra-amsah-882bb8380/",
+    },
   },
   {
     id: 3,
@@ -38,8 +41,8 @@ const members = [
       "https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWhwdzcwenA0YWY1a3Y1NzNlaWhqMzFzaHQ4bzhtbmF6dnM3NzJvbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N4AIdLd0D2A9y/giphy.gif",
     social: {
       github: "https://github.com/SyafBaik",
-      instagram: "https://instagram.com/wtf_syfz"
-    }
+      instagram: "https://instagram.com/wtf_syfz",
+    },
   },
 ];
 
@@ -96,9 +99,9 @@ export default function MembersPage() {
               {member.social && (
                 <div className="flex gap-3 mt-4">
                   {member.social.github && (
-                    <Link 
-                      href={member.social.github} 
-                      target="_blank" 
+                    <Link
+                      href={member.social.github}
+                      target="_blank"
                       rel="noopener noreferrer"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
@@ -106,13 +109,33 @@ export default function MembersPage() {
                     </Link>
                   )}
                   {member.social.instagram && (
-                    <Link 
-                      href={member.social.instagram} 
-                      target="_blank" 
+                    <Link
+                      href={member.social.instagram}
+                      target="_blank"
                       rel="noopener noreferrer"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
                       <Instagram size={20} />
+                    </Link>
+                  )}
+                  {member.social.website && (
+                    <Link
+                      href={member.social.website}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-muted-foreground hover:text-primary transition-colors"
+                    >
+                      <Globe size={20} />
+                    </Link>
+                  )}
+                  {member.social.linkedin && (
+                    <Link
+                      href={member.social.linkedin}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-muted-foreground hover:text-primary transition-colors"
+                    >
+                      <Linkedin size={20} />
                     </Link>
                   )}
                 </div>

@@ -10,7 +10,7 @@ export default function Footer() {
               The Ordinary Player
             </h3>
             <p className="text-muted-foreground">
-              Rookie hackers on a mission to learn, fail, and hack smarter.
+              Merry Christmas! Dont Forget to Hack.
             </p>
           </div>
           <div>
@@ -60,23 +60,15 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="#"
+                  href="https://ctftime.org/team/409247"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  Twitter
+                  CTFtime
                 </a>
               </li>
               <li>
                 <a
-                  href="#"
-                  className="text-muted-foreground hover:text-primary transition-colors"
-                >
-                  Discord
-                </a>
-              </li>
-              <li>
-                <a
-                  href="#"
+                  href="https://github.com/theordinaryplayer"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
                   GitHub
