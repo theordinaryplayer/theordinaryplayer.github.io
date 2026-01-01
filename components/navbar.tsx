@@ -22,7 +22,7 @@ export default function Navbar() {
             <img
               src="/logo.gif"
               alt="TOP"
-              width="110"
+              width="85"
             />
           </Link>
 
