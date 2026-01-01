@@ -10,7 +10,7 @@ export default function Footer() {
               The Ordinary Player
             </h3>
             <p className="text-muted-foreground">
-              Merry Christmas! Dont Forget to Hack.
+              Happy New Year! Hope you have a great year ahead!
             </p>
           </div>
           <div>
