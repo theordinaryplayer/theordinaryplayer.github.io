@@ -15,12 +15,12 @@ export default function Navbar() {
   ]
 
   return (
-    <nav className="fixed top-0 w-full z-50 bg-gradient-to-b from-black via-black/80 to-transparent">
+    <nav className="fixed top-0 w-full z-50 bg-black border-b border-white/10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center gap-2">
             <img
-              src="https://ctf-top.byethost7.com/img/Christmas.png"
+              src="/logo.gif"
               alt="TOP"
               width="110"
             />
